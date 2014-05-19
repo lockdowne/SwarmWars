@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwarmWars", "SwarmWars.csproj", "{7C49DA14-A1BD-42F4-AF20-09422D3586FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C49DA14-A1BD-42F4-AF20-09422D3586FA}.Debug|x86.ActiveCfg = Debug|x86
+		{7C49DA14-A1BD-42F4-AF20-09422D3586FA}.Debug|x86.Build.0 = Debug|x86
+		{7C49DA14-A1BD-42F4-AF20-09422D3586FA}.Release|x86.ActiveCfg = Release|x86
+		{7C49DA14-A1BD-42F4-AF20-09422D3586FA}.Release|x86.Build.0 = Release|x86
+		{1C7303D9-0589-4302-A810-F133FA1C6E00}.Debug|x86.ActiveCfg = Debug|x86
+		{1C7303D9-0589-4302-A810-F133FA1C6E00}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

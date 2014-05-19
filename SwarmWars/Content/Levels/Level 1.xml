@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Comment here-->
+<Root>
+  <User>
+    <Regen>1</Regen>
+    <Power>1</Power>
+    <Speed>1</Speed>
+  </User>
+  <Nest>
+    <X>602</X>
+    <Y>85</Y>
+    <Index>1</Index>
+    <Population>5</Population>
+    <Scale>1</Scale>
+  </Nest>
+  <Nest>
+    <X>599</X>
+    <Y>633</Y>
+    <Index>2</Index>
+    <Population>1</Population>
+    <Scale>1</Scale>
+  </Nest>
+  <Nest>
+    <X>448</X>
+    <Y>221</Y>
+    <Index>0</Index>
+    <Population>1</Population>
+    <Scale>0.6999999</Scale>
+  </Nest>
+  <Nest>
+    <X>753</X>
+    <Y>226</Y>
+    <Index>0</Index>
+    <Population>1</Population>
+    <Scale>0.6999999</Scale>
+  </Nest>
+
+</Root>
